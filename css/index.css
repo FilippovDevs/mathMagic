@@ -1,0 +1,36 @@
+body{
+	margin:0px;
+	font-family:arial;
+}
+.container{
+	background:rgb(62,180,137);
+	width:100vw;
+	height:100vh;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	flex-direction:column;
+}
+.app-title{
+	color:#fff;
+	width:300px;
+	display:flex;
+	margin-bottom:10px;
+	font-size:28px;
+	font-weight:bold;
+}
+.levels{
+	display:grid;
+	grid-template-columns:repeat(4, 1fr);
+	grid-gap:10px;
+}
+.level{
+	color:#fff;
+	width:67.5px;
+	height:67.5px;
+	font-size:28px;
+	font-weight:bold;
+	border-radius:10px;
+	border:none;
+	transition-duration:.4s;
+}
