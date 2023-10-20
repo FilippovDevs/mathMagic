@@ -29,7 +29,9 @@ body{
 }
 .levels{
 	display:grid;
-	grid-template-columns:repeat(4, 1fr);
+	grid-template-columns:repeat(4, 60px);
+	grid-template-rows:repeat(4, 60px);
+	align-content:center;
 	grid-gap:10px;
 }
 .level{
@@ -40,5 +42,9 @@ body{
 	font-weight:bold;
 	border-radius:10px;
 	border:none;
-	transition-duration:.4s;
+	transition-duration:.2s;
+}
+.level:hover{
+	width:65px;
+	height:65px;
 }
