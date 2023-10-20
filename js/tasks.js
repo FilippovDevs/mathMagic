@@ -18,6 +18,26 @@ let levelTasks = {
 	'4': {
 		'content':'<div class="textTask">1, 4, 9, 16, ?</div>', 
 		rightAnswer:25
+	},
+
+	'5': {
+		'content':'<div class="textTask">1, 9, 27, ?</div>',
+		rightAnswer:64
+	},
+
+	'6': {
+		'content':'<div class="textTask">2, 4, 8, ?</div>',
+		rightAnswer:16
+	},
+
+	'7': {
+		'content':'<div class="textTask">0, 1, 1, 2, 3, 5, 8, ?</div>',
+		rightAnswer:13
+	},
+
+	'8': {
+		'content':'<div class="textTask">1, 2, 4, 7, 11, ?</div>',
+		rightAnswer:16
 	}
 
 }
