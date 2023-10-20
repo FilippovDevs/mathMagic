@@ -48,7 +48,20 @@ body{
 	margin-top:6px;
 	font-size:18px;
 	border:none;
+}
+.homeButton{
+	background:rgba(251, 188, 5, 0.4);
+	color:#fff;
+	width:300px;
+	height:50px;
+	margin-top:6px;
+	font-size:18px;
+	border:none;
 	border-radius:0px 0px 10px 10px;
+	transition-duration:0.20s;
+}
+.homeButton:hover{
+	background:rgba(251, 188, 5, 1.0);
 }
 .textTask{
 	background:rgb(52, 168, 83);

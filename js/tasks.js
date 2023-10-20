@@ -38,6 +38,46 @@ let levelTasks = {
 	'8': {
 		'content':'<div class="textTask">1, 2, 4, 7, 11, ?</div>',
 		rightAnswer:16
+	},
+
+	'9': {
+		'content':'<img src="../res/level-9-img.jpg" width="300" height="300">',
+		rightAnswer:9
+	},
+
+	'10':{
+		'content':'',
+		rightAnswer:0
+	},
+
+	'11':{
+		'content':'',
+		rightAnswer:0
+	},
+
+	'12':{
+		'content':'',
+		rightAnswer:0
+	},
+
+	'13':{
+		'content':'',
+		rightAnswer:0
+	},
+
+	'14':{
+		'content':'',
+		rightAnswer:0
+	},
+
+	'15':{
+		'content':'',
+		rightAnswer:0
+	},
+
+	'16':{
+		'content':'',
+		rightAnswer:0
 	}
 
 }
