@@ -3,7 +3,7 @@ body{
 	font-family:arial;
 }
 .container{
-	background:rgb(62,180,137);
+	background:rgb(32, 138, 63);
 	width:100vw;
 	height:100vh;
 	display:flex;
@@ -13,10 +13,10 @@ body{
 }
 .app-title{
 	color:#fff;
-	width:300px;
+	width:270px;
 	display:flex;
 	margin-bottom:10px;
-	font-size:28px;
+	font-size:24px;
 	font-weight:bold;
 }
 .levels{
@@ -26,9 +26,9 @@ body{
 }
 .level{
 	color:#fff;
-	width:67.5px;
-	height:67.5px;
-	font-size:28px;
+	width:60px;
+	height:60px;
+	font-size:24px;
 	font-weight:bold;
 	border-radius:10px;
 	border:none;

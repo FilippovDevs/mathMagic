@@ -26,3 +26,10 @@ for(let level of levels){
 	}
 
 }
+
+//Хранение количества решённых задач
+/*
+if(typeof(localStorage.solvedCount) == undefined){
+
+}
+*/
